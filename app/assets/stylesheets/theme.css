@@ -6516,6 +6516,8 @@ textarea.form-control-lg {
   margin-bottom: 0;
   background-color: #fff;
   border-bottom: 1px solid #ecebf1;
+  display: flex;
+  justify-content: space-between;
 }
 .card-header:first-child {
   border-radius: calc(0.5rem - 1px) calc(0.5rem - 1px) 0 0;
